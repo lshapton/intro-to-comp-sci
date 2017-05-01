@@ -6,5 +6,5 @@ MIT's Introduction to Computer Science and Programming [Introduction and Goals; 
 
 # Additional Resources
 
-[Harvard CS50 Data Types](https://www.youtube.com/embed/JFieJW_kZq4?autoplay=1&rel=0)
-[The Imposter's Handbook - Chapter 5's Theory to Machinery and Chapter 6's Data Structures](https://bigmachine.io/products/the-imposters-handbook-complete/)
+- [Harvard CS50 Data Types](https://www.youtube.com/embed/JFieJW_kZq4?autoplay=1&rel=0)
+- [The Imposter's Handbook - Chapter 5's Theory to Machinery and Chapter 6's Data Structures](https://bigmachine.io/products/the-imposters-handbook-complete/)
