@@ -9,17 +9,12 @@ MIT's Introduction to Computer Science and Programming [Introduction and Goals; 
 
 [Turing 6's primitives](http://stackoverflow.com/questions/28148562/what-are-the-six-basic-primitives-in-turing-complete)
 
-Right: Move the Machine’s head to the right of the current square
-
-Left: Move the Machine’s head to the left of the current square
-
-Print: Print a symbol on the current square
-
-Scan: Identify any symbols on the current square
-
-Erase: Erase any symbols presented o the current square
-
-Nothing/HALT: Do nothing
+- Right: Move the Machine’s head to the right of the current square
+- Left: Move the Machine’s head to the left of the current square
+- Print: Print a symbol on the current square
+- Scan: Identify any symbols on the current square
+- Erase: Erase any symbols presented o the current square
+- Nothing/HALT: Do nothing
 
 The idea is that with those six primitives you can program anything.
 
