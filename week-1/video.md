@@ -7,7 +7,7 @@ MIT's Introduction to Computer Science and Programming [Introduction and Goals; 
 
 # Notes
 
-[Turing 6's primitives](http://stackoverflow.com/questions/28148562/what-are-the-six-basic-primitives-in-turing-complete)
+[Turing 6's primitives](http://stackoverflow.com/questions/28148562/what-are-the-six-basic-primitives-in-turing-complete):
 
 - Right: Move the Machine’s head to the right of the current square
 - Left: Move the Machine’s head to the left of the current square
