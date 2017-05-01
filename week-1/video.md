@@ -3,7 +3,7 @@
 MIT's Introduction to Computer Science and Programming [Introduction and Goals; Data Types, Operators, and Variables](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1/)
 
 - first part is just course administrative stuff, skip to 17min
-- topics covered: abstract flow of stored instructions in a computer's memory, Turing's 6 primitives, data types
+- Topics covered: abstract flow of stored instructions in a computer's memory, Turing's 6 primitives, data types
 
 # Notes
 
