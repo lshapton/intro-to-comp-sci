@@ -3,7 +3,7 @@
 ## Videos
 
 ### Few terms to define first
-Registers - is one of a small set of data holding places that are part of the computer processor unit (CPU)
+Registers - small set of data holding places that are part of the computer processor unit (CPU)
 
 Start video at 8min [Computer Science 61C Memory Hierarchy: Direct Mapped Caches](https://www.youtube.com/watch?v=TFpLyfGzArk)
 
