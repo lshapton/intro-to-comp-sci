@@ -1,4 +1,4 @@
-# Week 2: From Ruby to Bytecode (Lexer, parser, compile, linked lists, optimization, byte code)
+# Week 2: From Ruby to Bytecode
 
 # Videos
 
