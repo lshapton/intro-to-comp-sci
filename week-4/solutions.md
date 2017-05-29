@@ -1,6 +1,6 @@
 # Week 4: Functional Programming in Javascript - Solutions
 
-[Functional Javascript](https://nodeschool.io/)
+## Problem Set: [Functional Javascript](https://nodeschool.io/)
 
 ## Higher Order Functions
 
